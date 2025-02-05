@@ -14,9 +14,9 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/piandhust/piandhust.github.io/master/image/piandhust.png" width="100"/>
   <div id="badges">
-    <a href="https://viblo.asia/o/piandhust">
+<!--     <a href="https://viblo.asia/o/piandhust">
       <img src="https://img.shields.io/badge/Viblo-blue?style=for-the-badge&logo=viblo&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    </a> -->
     <a href="https://www.youtube.com/channel/UCJGcYPqJl_gMuYGqxNPgVFg/videos">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
