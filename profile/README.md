@@ -12,7 +12,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/piandhust/piandhust.github.io/refs/heads/master/image/hap.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/piandhust/piandhust.github.io/refs/heads/master/image/hap_circle.png" width="100"/>
   <div id="badges">
 <!--     <a href="https://viblo.asia/o/piandhust">
       <img src="https://img.shields.io/badge/Viblo-blue?style=for-the-badge&logo=viblo&logoColor=white" alt="LinkedIn Badge"/>
